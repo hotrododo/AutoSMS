@@ -1,0 +1,16 @@
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\bin\Debug\Auto SMS.exe.config
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\bin\Debug\Auto SMS.exe
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\bin\Debug\Auto SMS.pdb
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\bin\Debug\vi-VN\Auto SMS.resources.dll
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\bin\Debug\MySql.Data.dll
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\bin\Debug\MySql.Data.xml
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto SMS.csproj.ResolveComReference.cache
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto_SMS.MainScreen.resources
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto_SMS.Properties.Resources.resources
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto_SMS.SettingForm.resources
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto_SMS.MainScreen.vi-VN.resources
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto SMS.csproj.GenerateResource.Cache
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto SMS.csproj.CoreCompileInputs.cache
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\vi-VN\Auto SMS.resources.dll
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto SMS.exe
+C:\Users\Edward Rothschild\Documents\Visual Studio 2017\Projects\Auto SMS\Auto SMS\obj\Debug\Auto SMS.pdb
